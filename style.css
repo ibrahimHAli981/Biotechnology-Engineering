@@ -17,3 +17,57 @@ h1 {
     padding: 15px;
     margin: 10px 0;
 }
+
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background: #4CAF50;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin: 20px 0;
+}
+
+article {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #4CAF50;
+}
+
+a {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 10px 15px;
+    background: #4CAF50;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+    background: #45a049;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background: #f2f2f2;
+}
