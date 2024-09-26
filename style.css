@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* تنسيق النصوص الأساسية والجسم */
 body {
     font-family: Arial, sans-serif;
@@ -71,3 +72,24 @@ footer {
     padding: 10px 0;
     background: #f2f2f2;
 }
+=======
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.goal {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px 0;
+}
+>>>>>>> c571f4b344f161cd945d53fd653618a8015faca2
