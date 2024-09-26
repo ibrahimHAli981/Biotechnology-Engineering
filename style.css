@@ -1,18 +1,28 @@
+<<<<<<< HEAD
 /* تنسيق النصوص الأساسية والجسم */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     line-height: 1.6;
+=======
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+>>>>>>> c79e2a949fc9b417b3a7cf65ed3232f378acfbcc
     margin: 0;
     padding: 20px;
 }
 
+<<<<<<< HEAD
 /* تنسيق العناوين */
+=======
+>>>>>>> c79e2a949fc9b417b3a7cf65ed3232f378acfbcc
 h1 {
     text-align: center;
     color: #333;
 }
 
+<<<<<<< HEAD
 h2 {
     color: #4CAF50;
 }
@@ -57,6 +67,8 @@ a:hover {
 }
 
 /* تنسيق الأقسام الخاصة بالأهداف والرسالة */
+=======
+>>>>>>> c79e2a949fc9b417b3a7cf65ed3232f378acfbcc
 .goal {
     background-color: #fff;
     border: 1px solid #ddd;
@@ -64,6 +76,7 @@ a:hover {
     padding: 15px;
     margin: 10px 0;
 }
+<<<<<<< HEAD
 
 /* تنسيق الفوتر */
 footer {
@@ -71,3 +84,5 @@ footer {
     padding: 10px 0;
     background: #f2f2f2;
 }
+=======
+>>>>>>> c79e2a949fc9b417b3a7cf65ed3232f378acfbcc
