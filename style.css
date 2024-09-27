@@ -1,17 +1,24 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
+<<<<<<< HEAD
     line-height: 1.6;
+=======
+>>>>>>> ibrahim-admin
     margin: 0;
     padding: 20px;
 }
 
+<<<<<<< HEAD
 /* تنسيق العناوين */
+=======
+>>>>>>> ibrahim-admin
 h1 {
     text-align: center;
     color: #333;
 }
 
+<<<<<<< HEAD
 h2 {
     color: #4CAF50;
 }
@@ -56,6 +63,8 @@ a:hover {
 }
 
 /* تنسيق الأقسام الخاصة بالأهداف والرسالة */
+=======
+>>>>>>> ibrahim-admin
 .goal {
     background-color: #fff;
     border: 1px solid #ddd;
@@ -63,6 +72,7 @@ a:hover {
     padding: 15px;
     margin: 10px 0;
 }
+<<<<<<< HEAD
 
 /* تنسيق الفوتر */
 footer {
@@ -95,3 +105,5 @@ tr:nth-child(even) {
 tr:hover {
     background-color: #ddd; /* تغيير لون الصف عند التحويم */
 }
+=======
+>>>>>>> ibrahim-admin
