@@ -7,7 +7,7 @@ body, h1, h2, p {
 
 /* تعيين خلفية الصفحة */
 body {
-    background-color: #e0f7fa; /* لون خلفية خفيف */
+    background-color: #e0f7fa; 
     color: #004d40; /* لون النص */
     line-height: 1.6;
     padding: 20px;
